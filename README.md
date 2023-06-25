@@ -1,6 +1,6 @@
 # PHP
 
-<h4>Tipos primitivos</h4><br>
+<h4>Tipos primitivos</h4>
 <h5>Escalares</h5><br>
 String: "Lorem ipsun"
 Double: 3.145;
