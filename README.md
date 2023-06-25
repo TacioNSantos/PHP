@@ -1,6 +1,6 @@
 # PHP
 
-// Tipos primitivos:
+// Tipos primitivos:<br>
 <b>/Escalares:</b>
 String: "Lorem ipsun"
 Double: 3.145;
