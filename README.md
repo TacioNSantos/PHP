@@ -1,7 +1,7 @@
 # PHP
 
-// Tipos primitivos:<br>
-<b>/Escalares:</b>
+<h4>Tipos primitivos</h4><br>
+<h5>Escalares</h5><br>
 String: "Lorem ipsun"
 Double: 3.145;
 Int: 17;
